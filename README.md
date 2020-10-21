@@ -1,20 +1,13 @@
-# github-profile-summary-cards-example
+### Hi there 👋
+![GitHub followers](https://img.shields.io/github/followers/abhinavmir?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/abhinavmir?style=social) ![Twitch Status](https://img.shields.io/twitch/status/abhinavmir?style=social)
+- ⛅️ I’m currently working on Blockchain, DLTs, DeFi/Crypto, Distributed Storage.
+- 🎈 I have experience with Web Development (Especially with JavaScript, C#, Python and PHP frameworks).
+- 📂 I’m currently working at <a href="https://persistence.one">Persistence</a> as a DeFi/Blockchain Research intern and C++ Mentor @ GirlScript's UpLift Project.
+- 📁 I was previously at Superbolter, Punar, ACS and Techimax. I was a fellow at Ethereum India.
+- 🐧 Project Head @ VIT Linux User Group.
+- 📫 How to reach me: abhinavmir@protonmail.com 
+- 💾 I write at <a href="http://medium.com/@abhinavmir">Medium</a> and do stuff on <a href="https://www.youtube.com/channel/UCcFGIS9ESqxGytSqU9ELg7w?view_as=subscriber">YouTube</a>.
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
-
-```To create your profile README you need to name the repo as your username```
-
-Then you can use everything in profile-summary-card-output folder
-| :warning: | If your workflow does not generate all cards in output folder, then you need to use [Personal access token](https://docs.github.com/en/actions/configuring-and-managing-workflows/creating-and-storing-encrypted-secrets) instead of GITHUB_TOKEN in workflow. |
-| :-------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-
-[Creating a personal access token
-](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token)
-
-[Personal token permissions](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Personal-access-token-permissions)
-
-| :warning: | Don't forget to modify the image path (The correct path is in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
 
 [![](./profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](./profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
