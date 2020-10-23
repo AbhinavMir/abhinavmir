@@ -6,7 +6,7 @@
 - 🐧 Project Head @ VIT Linux User Group.
 - 📫 How to reach me: abhinavmir@protonmail.com 
 
-<center>[Research](https://www.researchgate.net/profile/Abhinav_Srivastava34) | [Experience](https://abhinavmir.netlify.app/experience/) | [Blogs](medium.com/@abhinavmir)</center>
+[Research](https://www.researchgate.net/profile/Abhinav_Srivastava34) | [Experience](https://abhinavmir.netlify.app/experience/) | [Blogs](medium.com/@abhinavmir)
 
 [![](./profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](./profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
