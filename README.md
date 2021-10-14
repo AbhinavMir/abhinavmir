@@ -1,6 +1,6 @@
 ### Hello!
 ![GitHub followers](https://img.shields.io/github/followers/abhinavmir?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/abhinavmir?style=social) ![Twitch Status](https://img.shields.io/twitch/status/abhinavmir?style=social)
-- I’m currently at <a href="http://defialliance.co/">DeFi Alliance</a> as a Software Engineer.
+- Last at <a href="http://defialliance.co/">DeFi Alliance</a> as a Software Engineer.
 - I was previously at <a href="https://persistence.one">Persistence</a> as a Blockchain Research intern.
 - Former Founding Project Head @ VIT Linux User Group, Fellow @ Ethereum India Foundation
 - How to reach me: abhinavmir@protonmail.com 
