@@ -5,7 +5,6 @@
 - At <a href="https://persistence.one">Persistence</a> before that as a Blockchain Research intern.
 - Former Founding Project Head @ VIT Linux User Group, Fellow @ Ethereum India Foundation
 - How to reach me: abhinavmir@protonmail.com 
-- Most of my commits are private :)
 
 [Research](https://www.researchgate.net/profile/Abhinav_Srivastava34) | [Experience](https://abhinavmir.netlify.app/experience/) | [Blogs](medium.com/@abhinavmir)
 
