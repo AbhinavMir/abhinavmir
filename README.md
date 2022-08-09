@@ -4,8 +4,11 @@
 
 I'm trying to build out public proof of work. My commits are usually private - trying to change that. The pinned repo are under heavy construction.
 
-- Engineer @ [Ignite Tournaments](https://www.ignitetournaments.com/), [SteakWallet](https://steakwallet.fi/)
-- Prev: <a href="http://defialliance.co/">DeFi Alliance</a> as a Software Engineer.
+Grad Student @ Boston University. Into Compiler Design, Virtual Machines and Distributed Systems. Working on building out [Vinci](https://vinci.so) - Single-click DAO onboarding + Crypto-powered automations customised for your need - All no-code.
+
+Previous life-
+- Engineer @ [Ignite Tournaments](https://www.ignitetournaments.com/)
+- <a href="http://defialliance.co/">DeFi Alliance</a> as a Software Engineer.
 - At <a href="https://persistence.one">Persistence</a> before that as a Blockchain Research intern.
 - Former Founding Project Head @ VIT Linux User Group, Fellow @ Ethereum India Foundation
 - How to reach me: abhinavmir@protonmail.com 
