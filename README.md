@@ -4,7 +4,7 @@
 
 I'm trying to build out public proof of work. My commits are usually private - trying to change that. The pinned repo are under heavy construction. I'd say I'm experiementing with Solidity, Rust and TypeScript right now, but have kept some tabs on HuffLang (mid-low level language for the EVM) and Vyper (Pythonic smart contracting language). 
 
-Grad Student @ Boston University. Into Compiler Design, Virtual Machines and Distributed Systems. Working on building out [Vinci](https://vinci.so) - Single-click DAO onboarding + Crypto-powered automations customised for your need - All no-code.
+*Currently:* Grad Student @ Boston University. Into Compiler Design, Virtual Machines and Distributed Systems. Working on building out [Vinci](https://vinci.so) - Single-click DAO onboarding + Crypto-powered automations customised for your need - All no-code.
 
 Previous life-
 - Engineer @ [Ignite Tournaments](https://www.ignitetournaments.com/)
