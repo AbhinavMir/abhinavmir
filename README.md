@@ -1,9 +1,7 @@
 *“What do you despise? By this are you truly known.”*
 ― Frank Herbert, Dune {Muad’Dib}
 
-Now focusing on Java, Solidity, Rust and Huff.
-
-*Currently:* Grad Student @ Boston University. Into Compiler Design, Virtual Machines and Distributed Systems. Working on building out [Vinci](https://vinci.so) - Single-click DAO onboarding + Crypto-powered automations customised for your need - All no-code.
+Looking for Summer Internships '23
 
 Previous life-
 - Engineer @ [Ignite Tournaments](https://www.ignitetournaments.com/)
