@@ -1,7 +1,7 @@
 *“What do you despise? By this are you truly known.”*
 ― Frank Herbert, Dune {Muad’Dib}
 
-Looking for Part time gigs/full-time contracts/internships for summer '23. 
+Looking for Part time gigs / full-time contracts / internships for summer '23. 
 
 Previous life-
 - Engineer @ [Ignite Tournaments](https://www.ignitetournaments.com/)
