@@ -1,5 +1,5 @@
 *“What do you despise? By this are you truly known.”*
-― Frank Herbert, Dune {Muad’Dib}
+― Frank Herbert, Dune 
 
 Looking for Part time gigs / full-time contracts / internships for summer '23. 
 
