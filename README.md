@@ -9,5 +9,5 @@ Previous life-
 - At <a href="https://persistence.one">Persistence</a> before that as a Blockchain Research intern.
 - Fellow @ Ethereum India Foundation
 
-**How to reach me**: abhinavmir@protonmail.com 
-🌏: [abhinavmir.xyz](https://abhinavmir.xyz/)
+**How to reach me**: abhinavmir@protonmail.com <br>
+🌏: [abhinavmir.xyz](https://abhinavmir.xyz/) <br>
