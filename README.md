@@ -4,7 +4,7 @@
 Looking for Part time gigs / full-time contracts / internships for summer '23. 
 
 **Currently**: 
-- MS Computer Science @ Boston University, '24 <br>
+**MS Computer Science @ Boston University,** '24 <br>
 Did grad-level networking, databases and object-oriented programming last semester where I became decently good with Java. <br>
 This semester is all about network sec + crypto, practical cybersecurity and game theory - the new three things I am absolutely obsessed about.
 
