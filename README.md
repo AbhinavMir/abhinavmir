@@ -1,8 +1,5 @@
 *“What do you despise? By this are you truly known.”*
 ― Frank Herbert, Dune 
-
-Looking for Part time gigs / full-time contracts / internships for summer '23. 
-
 **Currently**: 
 **MS Computer Science @ Boston University,** '24 <br>
 
