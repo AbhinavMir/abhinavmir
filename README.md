@@ -12,7 +12,7 @@
 - [Sol2Huff](https://github.com/abhinavmir/sol2huff) - A Solidity to Huff transpiler.
 - [Eclair](https://github.com/abhinavmir/eclair) - A tool to create Python, Rust, and TS/JS library wrappers around Blockchain Business Logic code instantly.
 - [SDSA-lib](https://www.npmjs.com/package/@sdsa-lib/base) - A library for Solidity data structures and algorithms - ships in base flavor, but variants can be built on top.
-- [Spock](https://github.com/abhinavmir/spock) - A cryptographically-secure passwordless login method for the web.
+- [Spock](https://spock.tools/) - A cryptographically-secure passwordless login method for the web.
 - [Wastebin](https://github.com/AbhinavMir/wastebin) - A replacement for the `rm` utility tool with a better management system.
 - [Web3grants.co](https://www.web3grants.co/) - A full-stack website built with NodeJS, PostgreSQL, and ReactJS for aggregating grants and fellowships in the Crypto space.
 - [DosaDB](https://github.com/abhinavmir/databases) - A simple database with a query parser, and the usual complex internal functions. Developed in Python. Built for educational purposes.
