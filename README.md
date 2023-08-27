@@ -1,9 +1,10 @@
 *“What do you despise? By this are you truly known.”*
 ― Frank Herbert, Dune <br>
 
-**Currently**: 
+Currently: 
 **MS Computer Science @ Boston University,** '24 <br>
-**Project**
+
+## Projects
 
 - [ThoughtForest](https://www.thoughtforest.xyz/)
   - Built solo in 2 weeks with React and Django
@@ -35,4 +36,4 @@
 - Fellow @ Ethereum India Foundation
 
 **How to reach me**: sabhinav@bu.edu <br>
-🌏: [abhinavmir.xyz](https://abhinavmir.xyz/) <br>
+🌏: [abhinavmir.xyz](https://abhinavmir.xyz/) 
