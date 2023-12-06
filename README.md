@@ -6,6 +6,7 @@ Currently:
 
 ## Projects
 
+- Canton OS - A simple OS with file system, threads, I/O, network stack etc. - still private.
 - [ThoughtForest](https://www.thoughtforest.xyz/)
   - Built solo in 2 weeks with React and Django
   - Uses Planetscale for the database
