@@ -4,13 +4,14 @@
 Currently: 
 **MS Computer Science @ Boston University,** '24 <br>
 
+Contributing actively to: [Zephyr RTOS](https://github.com/zephyrproject-rtos/zephyr/), [Reth](https://github.com/paradigmxyz/reth), [Rollkit](https://rollkit.dev/), [Ignite-CLO](https://ignite.com/) etc. and trying to do more!
+
+Upcoming Talks: [KernelChaos: Lessons in building an OS and keeping it safe](https://www.meetup.com/boston-hackers/events/299099520/).
+
 ## Projects
 
-- Canton OS - A simple OS with file system, threads, I/O, network stack etc. - still private.
+- Canton OS - A simple OS with file system, threads, I/O, network stack etc. - private for academic integrity.
 - [ThoughtForest](https://www.thoughtforest.xyz/)
-  - Built solo in 2 weeks with React and Django
-  - Uses Planetscale for the database
-  - Backend and frontend deployed to Render and Vercel (Initially I was using DigitalOcean droplets, but ran out of credits)
 - [Sol2Huff](https://github.com/abhinavmir/sol2huff) - A Solidity to Huff transpiler.
 - [Eclair](https://github.com/abhinavmir/eclair) - A tool to create Python, Rust, and TS/JS library wrappers around Blockchain Business Logic code instantly.
 - [SDSA-lib](https://www.npmjs.com/package/@sdsa-lib/base) - A library for Solidity data structures and algorithms - ships in base flavor, but variants can be built on top.
