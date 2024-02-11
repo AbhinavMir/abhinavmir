@@ -4,7 +4,7 @@
 Currently: 
 **MS Computer Science @ Boston University,** '24 <br>
 
-Contributing actively to: [Zephyr RTOS](https://github.com/zephyrproject-rtos/zephyr/), [Reth](https://github.com/paradigmxyz/reth), [Rollkit](https://rollkit.dev/), [Ignite-CLO](https://ignite.com/) etc. and trying to do more!
+Contributing actively to: [Zephyr RTOS](https://github.com/zephyrproject-rtos/zephyr/), [Reth](https://github.com/paradigmxyz/reth), [Rollkit](https://rollkit.dev/), [Ignite-CLI](https://ignite.com/) etc. and trying to do more!
 
 Upcoming Talks: [KernelChaos: Lessons in building an OS and keeping it safe](https://www.meetup.com/boston-hackers/events/299099520/).
 
