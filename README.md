@@ -1,7 +1,11 @@
 *“What do you despise? By this are you truly known.”*
 ― Frank Herbert, Dune <br>
 
-Currently: 
+Looking for new roles in USA.
+
+**Currently**: Intern @ RISC-V
+
+Education: 
 **MS Computer Science @ Boston University,** '24 <br>
 
 Contributing actively to: RISC-V, Coreboot, Zephyr RTOS, RTEMS, Reth, Foundry, Rollkit, Ignite, Sway etc.
