@@ -10,6 +10,7 @@ Upcoming Talks: [KernelChaos: Lessons in building an OS and keeping it safe](htt
 
 ## Projects
 
+- [Episodic.work](https://episodic.work) - write your book, one chapter at a time.
 - Canton OS - A simple OS with file system, threads, I/O, network stack etc. - private for academic integrity.
 - [ThoughtForest](https://www.thoughtforest.xyz/)
 - [Sol2Huff](https://github.com/abhinavmir/sol2huff) - A Solidity to Huff transpiler.
