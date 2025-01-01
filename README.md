@@ -1,7 +1,7 @@
 *“What do you despise? By this are you truly known.”*
 ― Frank Herbert, Dune <br>
 
-Looking for new roles in USA.
+If you're wondering why my commits dropped off suddenly, see @augustatathelas - that's my work gH :)
 
 **Currently**: 
 SWE @ Athelas.
