@@ -3,8 +3,8 @@
 
 If you're wondering why my commits dropped off suddenly, see @augustatathelas - that's my work gH :)
 
-**Currently**: 
-SWE @ Athelas.
+Currently: Founding Eng @ Simbie.
+Prev: SWE @ Athelas.
 
 Education: 
 **MS Computer Science @ Boston University,** '24 <br>
