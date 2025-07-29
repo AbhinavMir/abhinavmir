@@ -1,7 +1,7 @@
 *“What do you despise? By this are you truly known.”*
 ― Frank Herbert, Dune <br>
 
-If you're wondering why my commits dropped off suddenly, see @augustatathelas - that's my work gH :)
+If you're wondering why my commits dropped off suddenly in the middle, see [augustatathelas](https://github.com/augustatathelas) - that used to be my work gH. Now, I'm back on here as a founding engg @ Simbie AI.
 
 Currently: Founding Eng @ Simbie.
 Prev: SWE @ Athelas.
