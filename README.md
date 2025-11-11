@@ -1,15 +1,18 @@
 *“What do you despise? By this are you truly known.”*
 ― Frank Herbert, Dune <br>
 
+Currently: Founding Egg @ Paratus Health
+Prev: Founding Eng @ Simbie, SWE @ Athelas.
+
+<hr>
+
 If you're wondering why my commits dropped off suddenly in the middle, see [augustatathelas](https://github.com/augustatathelas) - that used to be my work gH. Now, I'm back on here as a founding engg @ Simbie AI.
 
-Currently: Founding Eng @ Simbie.
-Prev: SWE @ Athelas.
 
 Education: 
 **MS Computer Science @ Boston University,** '24 <br>
 
-Contributing actively to: RISC-V, Coreboot, Zephyr RTOS, RTEMS, Reth, Foundry, Rollkit, Ignite, Sway etc.
+Contributed at some point to: RISC-V, Coreboot, Zephyr RTOS, RTEMS, Reth, Foundry, Rollkit, Ignite, Sway etc.
 
 Past Talks: [KernelChaos: Lessons in building an OS and keeping it safe](https://www.meetup.com/boston-hackers/events/299099520/).
 
