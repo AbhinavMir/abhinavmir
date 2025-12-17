@@ -2,6 +2,8 @@
 ― Frank Herbert, Dune <br>
 
 Currently: Ambra911 (dot) com
+<br>
+<hr>
 Prev: Founding Eng @ Paratus and before that Simbie, SWE @ Commure/Athelas.
 
 Education: 
