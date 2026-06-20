@@ -1,7 +1,7 @@
 *“What do you despise? By this are you truly known.”*
 ― Frank Herbert, Dune <br>
 
-Co-founder + CTO at Ambra911 (dot) com
+Building Ambra911 (dot) com
 >Hiring good GoLang + React Native + React Devs! Language isn't as strong a bar as you'd imagine. Send me some proof of work, currently most replayed song, and why you want to work with us ("money" is a valid answer, I value candidness)!
 
 <hr>
