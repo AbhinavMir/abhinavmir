@@ -13,3 +13,5 @@ For my personal projects - if it is a repository that's public, it's completely 
 I write SciFi, I'll publish them here someday! 
 
 What else, I guess, my website has more information about me: abhinavmir.xyz
+
+pfp is [Hari Seldon by Micheal Whelan](https://www.michaelwhelan.com/galleries/hari/)
