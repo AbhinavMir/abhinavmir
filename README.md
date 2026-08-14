@@ -16,4 +16,4 @@ On that note, currently in San Jose, proudly, but did my grad school from the be
 
 What else, I guess, my website has more information about me: abhinavmir.xyz
 
-pfp is [Hari Seldon by Micheal Whelan](https://www.michaelwhelan.com/galleries/hari/)
+pfp is tom wait's nighthawks album
