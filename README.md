@@ -1,5 +1,7 @@
 “What do you despise? By this are you truly known.”
 
+email: atg271@gmail.com 
+
 Currently: Founding Eng @ Ambra <br>
 Prev: Commure, Simbie AI <br>
 Judged some hackathons <br>
